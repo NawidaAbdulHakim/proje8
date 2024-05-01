@@ -20,7 +20,7 @@ SQLite3
 # Kurulum
 
 Depoyu yerel makinenize klonlayın:
-git clone https://github.com/kullanici_adiniz/stok-takip-sistemi.git
+git clone https://github.com/NawidaAbdulHakim/stok-takip-sistemi.git
 
 Uygulamayı çalıştırın:
 python main.py
