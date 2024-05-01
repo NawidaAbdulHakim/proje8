@@ -8,7 +8,7 @@ Bu, Python kullanılarak PyQt5 ile GUI ve SQLite ile veritabanı kullanılarak g
 Stok Yönetimi: Kullanıcılar mevcut ürünlerin stok miktarını güncelleyebilir.
 Sipariş Oluşturma: Kullanıcılar benzersiz bir sipariş numarası ve sipariş detayları sağlayarak sipariş oluşturabilir.
 
-#Gereksinimler
+# Gereksinimler
 
 Python 3.x
 PyQt5 kütüphanesi
