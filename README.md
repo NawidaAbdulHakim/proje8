@@ -14,7 +14,8 @@ Python 3.x
 PyQt5 kütüphanesi
 SQLite3
 
-<img width="290" alt="Screenshot 2024-05-01 at 18 01 31" src="https://github.com/NawidaAbdulHakim/proje8/assets/162152692/61727d86-fcd0-46a7-a37a-ce773f3a91dc">
+<img width="249" alt="Screenshot 2024-05-03 at 21 38 13" src="https://github.com/NawidaAbdulHakim/proje8/assets/162152692/5c0fb65d-0ad0-40e8-a15b-26adbeb6d696">
+
 
 
 # Kurulum
